@@ -1,0 +1,9 @@
+* cl-ansi-text
+
+Enables ANSI colors for printing.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/pnathan/cl-ansi-text.git |
+| commit  | 8b129d8                                         |
+| systems | cl-ansi-text                                    |
+|---------+-------------------------------------------------|
