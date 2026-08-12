@@ -7,4 +7,4 @@ Enables ANSI colors for printing.
 | commit  | 406e12c                                         |
 | systems | cl-ansi-text                                    |
 |---------+-------------------------------------------------|
-  
+   
