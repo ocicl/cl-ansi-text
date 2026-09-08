@@ -4,7 +4,7 @@ Enables ANSI colors for printing.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/pnathan/cl-ansi-text.git |
-| commit  | 406e12c                                         |
+| commit  | 9825f96                                         |
 | systems | cl-ansi-text                                    |
 |---------+-------------------------------------------------|
    
